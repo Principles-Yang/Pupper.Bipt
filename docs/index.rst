@@ -17,7 +17,8 @@
 * 部件：https://www.amazon.com/hz/wishlist/ls/7TRIHZVMOJ7K?ref_=wl_share
 * 工具：https://www.amazon.com/hz/wishlist/ls/35DHYO67BOM8N?ref_=wl_share
 
-感谢各位老师和同学的支持和意见。如您有什么想法或文档有说明问题：请发邮件至yangyunhao828@outlook.com，我会及时修改！
+感谢各位老师和同学的支持和意见。如果您有什么想法或是发现文档有某些问题：
+请发邮件至yangyunhao828@outlook.com，我会及时修改！
 
 
 .. toctree::
