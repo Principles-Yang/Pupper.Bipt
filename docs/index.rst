@@ -10,7 +10,7 @@
 *************
 * 全部文件代码及工具下载（天翼云）：https://cloud.189.cn/t/jYv6Bbe2ymIr（访问码：iwh3）
 * 国内的供应商：http://www.mangdang.net/page5
-*英文版说明（针对斯坦福）：https://pupper.readthedocs.io/en/latest/index.html
+* 英文版说明（针对斯坦福）：https://pupper.readthedocs.io/en/latest/index.html
 
 物料单：（国外不好邮还贵，建议找国内的）
 *************
