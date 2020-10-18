@@ -45,12 +45,12 @@
 
 准备组装
 
-.. image:: ../_static/hip2pre.jpg
+.. image:: ../_static/hip2pre.JPG
     :align: center
 
 完成效果
 
-.. image:: ../_static/hip2com.jpg
+.. image:: ../_static/hip2com.JPG
     :align: center
 
 步骤3.将伺服器安装到内髋部（内框）中
@@ -244,7 +244,8 @@
 
 1.	对齐内部和外部髋关节组件，M4x10mm塑料螺钉应在同一侧，伺服臂应成90度角。
 2.	将带有M3x16螺钉的组件通过外部髋关节组件连接到支座。请勿完全拧紧螺钉。可在螺丝上添加胶水。（新手不建议添加胶水）
-3.	此时，您的双腿可能会开始移动，可以标记左右两侧，以免感到困惑。如果您不知道哪一方，请与3D模型进行比较：可参考文件“Stanford Pupper Public.stl”（win10自带3D软件可打开）或可访问http://stanford195.autodesk360.com/g/shares/SH919a0QTf3c32634dcfedf61e031f673710
+3.	此时，您的双腿可能会开始移动，可以标记左右两侧，以免感到困惑。如果您不知道哪一方，请与3D模型进行比较：可参考文件“Stanford Pupper Public.stl”（win10自带3D软件可打开）或可访问
+http://stanford195.autodesk360.com/g/shares/SH919a0QTf3c32634dcfedf61e031f673710
 
 准备组装
 
@@ -391,12 +392,12 @@
 
 按下锥形螺纹散热片之前
 
-.. image:: ../_static/body1pre.jpg
+.. image:: ../_static/body1pre.JPG
     :align: center
 
 按下锥形螺纹热插入件后
 
-.. image:: ../_static/body1com.jpg
+.. image:: ../_static/body1com.JPG
     :align: center
 
 步骤2.将径向轴承压入主体
@@ -412,12 +413,12 @@
 
 准备组装
 
-.. image:: ../_static/body2pre.jpg
+.. image:: ../_static/body2pre.JPG
     :align: center
 
 完成效果
 
-.. image:: ../_static/body2com.jpg
+.. image:: ../_static/body2com.JPG
     :align: center
 
 步骤3.固定髋关节组件
@@ -564,12 +565,12 @@ PCB组装(北石化请跳过此步)
 将所有针脚未焊接到电路板上
 
 
-.. image:: ../_static/pcb1pre.jpg
+.. image:: ../_static/pcb1pre.JPG
     :align: center
 	
 完成步骤，焊接销
 
-.. image:: ../_static/pcb1pre.jpg
+.. image:: ../_static/pcb1pre.JPG
     :align: center
 	
 步骤2.焊接Raspberry Pi接引脚
@@ -587,12 +588,12 @@ PCB组装(北石化请跳过此步)
 
 将2x20排针焊接到PCB上之后。
 
-.. image:: ../_static/pcb2.jpg
+.. image:: ../_static/pcb2.JPG
     :align: center
 
 焊接2x20排针后，板的下面的效果。
 
-.. image:: ../_static/pcb2an.jpg
+.. image:: ../_static/pcb2an.JPG
     :align: center
 
 步骤3.将bec和5V焊接在引脚上
@@ -609,7 +610,7 @@ PCB组装(北石化请跳过此步)
 BEC和5V引脚（右侧的四个引脚）焊接到PCB。
 
 
-.. image:: ../_static/pcb3.jpg
+.. image:: ../_static/pcb3.JPG
     :align: center
 
 Step 4: Solder the XT 60 pigtail connector to the PCB
@@ -625,17 +626,17 @@ Step 4: Solder the XT 60 pigtail connector to the PCB
 
 XT60公尾纤（母外壳，公针）
 
-.. image:: ../_static/pcb4pre.jpg
+.. image:: ../_static/pcb4pre.JPG
     :align: center
 
 焊接在XT60连接器上之后的效果
 
-.. image:: ../_static/pcb4com.jpg
+.. image:: ../_static/pcb4com.JPG
     :align: center
 
 XT60焊接连接的另一视角
 
-.. image:: ../_static/pcb4coman.jpg
+.. image:: ../_static/pcb4coman.JPG
     :align: center
 	
 步骤5.测试配电板是否短路
@@ -670,7 +671,7 @@ XT60焊接连接的另一视角
 5.	暂时拔下伺服器和电池。
 
 
-.. image:: ../_static/pcb6.jpg
+.. image:: ../_static/pcb6.JPG
     :align: center
 
 步骤7.插入5V稳压器
