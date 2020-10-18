@@ -17,7 +17,7 @@ import sys
 
 # -- Project information -----------------------------------------------------
 
-project = 'Documentation of Pupper for Bipt'
+project = 'Pupper机器狗（中文版）'
 author = 'Yun-Hao Yang'
 
 # The full version, including alpha/beta/rc tags
