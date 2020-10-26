@@ -6,4 +6,4 @@ Pupper机器狗 <br>
 >针对BIPT编写：<br>
 
 
-![]（https://github.com/Principles-Yang/Pupper.Bipt/blob/master/puppershow.png) <br>
+![](https://github.com/Principles-Yang/Pupper.Bipt/blob/master/puppershow.png) <br>
