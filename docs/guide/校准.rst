@@ -31,9 +31,15 @@ Steps
     * 校准脚本将提示您进行12个伺服电机的校准。当它要求您将链接移动到水平位置时，您可能想知道什么才算使链接水平。答案是:对齐每个链接的关节中心。例如，将上链节水平对齐时，您需要使伺服花键和将上链节与下链节连接的螺栓之间的线尽可能水平。
 按照脚本提示输入A或D进行微调，直至水平。可以用眼镜观察，也可使用水平仪。（若还是不明白，建议查看”校准1“的视频连接）
  
-        cd StanfordQudruped
-        sudo pigpiod
-        python3 calibrate_servos.py
+    cd StanfordQudruped
+    sudo pigpiod
+    python3 calibrate_servos.py
+    
+.. image:: ../_static/front_calibration.png
+    :align: center
+
+.. image:: ../_static/side_calibration.png
+    :align: center
 
 #. 重新启用机器狗脚本::
     
