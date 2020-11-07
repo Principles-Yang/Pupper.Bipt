@@ -25,10 +25,10 @@
     :maxdepth: 1
     :caption: 安装引导：
 
-    guide/组装
-    guide/软件安装
-    guide/校准
-    guide/机器狗的操作
+    guide/Assembling
+    guide/Software Installation 
+    guide/Calibration
+    guide/Robot dog operation
 
 
 .. image:: _static/pupperpic.PNG
