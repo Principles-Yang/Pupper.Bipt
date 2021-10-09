@@ -8,7 +8,7 @@
 
 友情连接：
 *************
-* 全部文件代码及工具下载（天翼云）：https://cloud.189.cn/t/fauqm2Inqyau（访问码：i6v1）
+* 全部文件代码及工具下载（天翼云）：https://cloud.189.cn/web/share?code=aumEbyBRvqiy（访问码：jt1t）
 * 国内的供应商：http://www.mangdang.net/page5
 * 英文版说明（针对斯坦福）：https://pupper.readthedocs.io/en/latest/index.html
 
